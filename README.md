@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Sina and I'm a backend developer, from iran</p>
+<h3 align="left">My name is Sina and I'm a backend developer, from iran</h3>
 
 ###
 
